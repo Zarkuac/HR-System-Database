@@ -1,6 +1,6 @@
 CREATE TABLE "departments" (
   "department_id" integer,
-  "fname" varchar,
+  "name" varchar,
   "location" varchar
 );
 
